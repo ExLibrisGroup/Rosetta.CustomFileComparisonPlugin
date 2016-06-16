@@ -14,7 +14,7 @@
 	</target>
 	<target name="build_jar">
 		<echo> Build ClamAVVirusCheckPluginV2 jar</echo>
-		<jar destfile="${target.dir}/FileComparisonScript.jar">
+		<jar destfile="${target.dir}/FileComparison.jar">
 			<fileset dir="${src.dir}" includes="**" excludes="com/**" />
 			<manifest>
 				<attribute name="Main-Class" value="com.exlibris.dps.repository.plugin.virusCheck.ClamAVVirusCheckPluginV2" />
