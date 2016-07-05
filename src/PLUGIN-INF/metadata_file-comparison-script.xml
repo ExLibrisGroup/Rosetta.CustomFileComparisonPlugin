@@ -1,12 +1,12 @@
 <pl:metadata-config xmlns:pl="http://www.exlibrisgroup.com/Plugins/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
   <pl:pluginTypeName>FileComparisonPlugin</pl:pluginTypeName>
-  <pl:deployName>FileComparison</pl:deployName>
+  <pl:deployName>PSNRFileComparisonPlugin</pl:deployName>
   <pl:className>bin\compare</pl:className>
   <pl:initParameters>
     <fr:x_form xmlns:fr="http://com/exlibris/digitool/common/forms/xmlbeans">
     </fr:x_form>
   </pl:initParameters>
-  <pl:description>File Comparison Script Plugin</pl:description>
+  <pl:description>PSNR File Comparison Script Plugin</pl:description>
   <pl:version>1</pl:version>
   <pl:materialType>DIGITAL</pl:materialType>
   <pl:module>Preservation</pl:module>
