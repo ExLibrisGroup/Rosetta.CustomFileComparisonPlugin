@@ -1,2 +1,2 @@
-# Rosetta.CustomFileComparisonPlugin
+# Rosetta.PSNRFileComparisonPlugin
 File Comparison Plugin
